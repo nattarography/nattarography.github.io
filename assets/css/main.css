@@ -57,6 +57,10 @@
     	list-style: none;
 	}
 
+	.post-main {
+		margin: 20px auto 40px; 
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
