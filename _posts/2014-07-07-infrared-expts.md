@@ -8,4 +8,4 @@ Managed to borrow an IR720nm-modded D300 from a friend and thus, decided to play
 
 <img src="/images/singapore/06.jpg">
 
-<img src="/images/post_rel/01.jpg">
+<img src="/images/post_rel/03.jpg">
