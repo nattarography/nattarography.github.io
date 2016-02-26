@@ -10,6 +10,6 @@ I've never seen someone working with so many strobes and flashes at one go - to 
 
 I'm not saying it's bad to just go with one main light, diffused with a giant softbox. However, understanding the technicalities of light and knowing what you want to light up/eliminate sometimes requires one to go with more complicated light setups. 
 
-<img src="/images/post_rel/01.jpg"> 
+<img src="/images/post_rel/00.jpg"> 
 
 Of course, such an endeavour requires much patience and experience.
