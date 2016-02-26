@@ -1,0 +1,19 @@
+<div class="sidebar">
+    <div class="sidebar-about">
+      <h3>
+        <font color=#FFFFFF>Other Posts</font>
+      </h3>
+    </div>
+
+    <ul>
+    <nav class="sidebar-nav">
+      <div class="posts">
+        {% for post in site.posts %}
+        <li> 
+          {{ post.date | date_to_string }}:
+          <a href="{{ post.url }}"> {{ post.title }} </a>
+      </li>
+  {% endfor %}
+    </nav>
+  </ul> 
+</div>

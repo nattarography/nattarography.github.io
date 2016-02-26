@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<!--
+	Multiverse by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+		<title>{{page.title}}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		{% include head.html %}
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="/index.html"><strong>Nattarography</strong></a></h1>
+						<nav>
+							<ul>
+								<li><a href="#footer2" class="dropdown-toggle">Portfolio</a></li>
+								<li><a href="/blog">Blog</a></li> 
+								<li><a href="#footer" class="icon fa-info-circle">About</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					
+				<div class="content">
+      				{{ content }}
+    			</div>
+				
+
+				<div id="footer2" class="panel"> 
+					<div class="inner split"> 
+						<div>
+						</div>
+						<div> 
+							<section>
+								<u><h2><font color=#FFFFFF>Personal Works</font></h2></u>
+								<ul>
+								<li><a href="/math">JSH Reunion Show: Mathematics</a>
+								<li><a href="/singapore">Home, Singapore</a>
+								<li><a href="/jsh">JSH 2013: Cosplay</a>
+								</ul>
+							</section>
+						</div>
+
+						<div>
+							<section> 
+								<u><h2><font color=#FFFFFF>General/Commercial</font></h2></u>
+								<ul> 
+								<li><a href="/artist_salon">Artist Salon</a>
+								<li><a href="/sajc">SAJC</a>
+								<li><a href="/sws">SWS Youth Winds</a>
+								<li><a href="/vm">Visual Monsters</a>
+								<li><a href="/portraits">Portraits</a>
+								<li><a href="/index.html">Cosplay Shoots</a>
+								</ul>
+							</section> 
+						</div>
+					</div>
+					</div>	
+
+
+					{% include sidebar.html %}	
+
+					
+				<!-- Footer -->
+					<footer id="footer" class="panel">
+						<div class="inner split">
+							<div>
+								<section>
+									<h2><font color=#FFFFFF>Xue Hui</font></h2>
+									<p><font color=#c3bebe>Hi there, I'm Xue Hui. I'm currently a university undergraduate majoring in Computer Science, minoring in Mathematics. 
+										I've been doing freelance photography since i was 17. 
+										<br>I like working with strobes and fresh ideas, 
+										so feel free to get in touch with me if you're interested in working with me.</font></p>
+								</section>
+								<section>
+									<h2><font color=#FFFFFF>Follow me on...</font></h2>
+									<ul class="icons">
+										<li><a href="https://github.com/Nattaro13" class="icon fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="http://flickr.com/nattaro13" class="icon fa-flickr"><span class="label">Flickr</span></a></li>
+										<li><a href="mailto:nattaro13@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+									</ul>
+								</section>
+								<p class="copyright">
+									&copy; Nattarography Design: <a href="http://html5up.net">HTML5 UP</a>.
+								</p>
+							</div>
+							<div>
+								<section>
+									<h2><font color=#FFFFFF>Get in Touch</font></h2>
+									<form method="post" action="/assets/php/mailer.php">
+										<div class="field half first">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="field half">
+											<input type="text" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send" class="special" name="submit" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+							</div>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.poptrox.min.js"></script>
+			<script src="/assets/js/skel.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="/assets/js/main.js"></script>
+			<script src="/assets/js/app.js"></script> 
+
+	</body>
+</html>
