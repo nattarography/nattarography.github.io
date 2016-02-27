@@ -1,11 +1,11 @@
 <?php
 
-if(isset($_POST['submit'])) {
+if(isset($_GET['submit'])) {
 	$to = "nattaro13@gmail.com";
 	$subject = "Nattarography: Enquiries";
-	$name_field = $_POST['name'];
-	$email_field = $_POST['email'];
-	$message = $_POST['message'];
+	$name_field = $_GET['name'];
+	$email_field = $_GET['email'];
+	$message = $_GET['message'];
 	 
 	$body = "From: $name_field\n E-Mail: $email_field\n Message:\n $message";
 	 
