@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nattaro13
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nattarography.net
+  * I am nattaro13 (https://keybase.io/nattaro13) on keybase.
+  * I have a public key ASAVbTH796lJG0tH4dNTgXc_7KUT3PbWBBDg9HpQBFm2Fgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120156d31fbf7a9491b4b47e1d35381773feca513dcf6d60410e0f47a500459b6160a",
+      "host": "keybase.io",
+      "kid": "0120156d31fbf7a9491b4b47e1d35381773feca513dcf6d60410e0f47a500459b6160a",
+      "uid": "469903f61376f034e3e215fac7825d19",
+      "username": "nattaro13"
+    },
+    "merkle_root": {
+      "ctime": 1528796293,
+      "hash": "a275a9bd4ae547be4fe2c92d042bf2208892b49003b8d3fe68ac33d6363765f744a00f765f895df8babe8389e96189c8760dca7cce1234cf217b1063a24f2610",
+      "hash_meta": "b12a2493e8e680239ddb8b50d363a7e6fc305e3f6b29ce2df8b8723b0915179c",
+      "seqno": 3063211
+    },
+    "service": {
+      "entropy": "fttlL1AVSZ4TeWQSsvSu6Gk+",
+      "hostname": "nattarography.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.0"
+  },
+  "ctime": 1528796431,
+  "expire_in": 504576000,
+  "prev": "631da3c56d7544b725e68c446e910d6291845a15c149d2a292695aef16b9568b",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFW0x+/epSRtLR+HTU4F3P+ylE9z21gQQ4PR6UARZthYKp3BheWxvYWTESpcCCMQgYx2jxW11RLcl5oxEbpENYpGEWhXBSdKikmla7xa5VovEIJIq8VkgaIHetZM8Qxu4CZu4GFvXSljX/m5NSo1XxHTSAgHCo3NpZ8RAJ4tungbyfibiLuvLOrDKen9UoKgeb7wb7H2SfDIGxdNfVuv9yii94KAZ1AcRhZNJEEuevim/vTQ3U+WoH8KeBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGbyUPbzrp3OaN3ukRByPCUbfPuEBkoEbPTBpUMFPT45o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nattaro13
+
+==================================================================
