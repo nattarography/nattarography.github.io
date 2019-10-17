@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/nattaro13
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://konato.pw
+  * I am nattaro13 (https://keybase.io/nattaro13) on keybase.
+  * I have a public key with fingerprint D102 BC8F 4B6F B0DB A669  9292 6A22 D2E2 AA0A 63FB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120156d31fbf7a9491b4b47e1d35381773feca513dcf6d60410e0f47a500459b6160a",
+      "fingerprint": "d102bc8f4b6fb0dba66992926a22d2e2aa0a63fb",
+      "host": "keybase.io",
+      "key_id": "6a22d2e2aa0a63fb",
+      "kid": "01017bee07d8f3526a99384824bf194ea50fd53c9f2c1870716515e944248227ad060a",
+      "uid": "469903f61376f034e3e215fac7825d19",
+      "username": "nattaro13"
+    },
+    "merkle_root": {
+      "ctime": 1571284951,
+      "hash_meta": "ed03497c87deec9a5101ae1f1df8351e261bad43ab56a3702bd650eb01ebc746",
+      "seqno": 8183484
+    },
+    "revoke": {
+      "sig_ids": [
+        "486c8661c7f1fe274ee251e1264a7f8d46883e5e81ca307f77cc12380d6c24930f"
+      ]
+    },
+    "service": {
+      "hostname": "konato.pw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1571284952,
+  "expire_in": 157680000,
+  "prev": "66f1eeaf3b22e94d418d96b37e6b9677c6b23b5a75ad8682673c8face3ec5dbc",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMQAAnicbVNrbBVFFO6lUOWSForYgi9goTFIaWZ2Z2d3m5IKClQkRYtQlbaXmd2Z
+crnt3dvdbUupRURoJBSL6EXKI1UEKihEwx8kfQi0vhoFwRQIRWkpimIIIi8hEOdW
+iIlx/kzm5Dvf+c53zrQnxsf5fYuko727/OYtX+dBrzyusOmXE9USta0qKbNaCrH+
+i5VYzPUCoaAlZUoAygCq2FIgp1wjBjIgRRRpDFqKquhQ0xTOTKJCxTI5tjBAEDDA
+kUZUAJBqUAwxIFK6xIPhYuZEnGDYE7QWBDI1dY4o5hRYlGBsGLIhYyLLlsxkQgDB
+CqcicaHtxjKEOEpclhG0RUw8Av3y/gd/TzeAGmUMaJbOFVUQG4aiI11GlEMDMSGP
+W6piGlw2oa4BDWIVqsxASBYgWSMW+Ed3eT8dEvKAwjFUNMyBgpjCZKhyYmq6rFrQ
+iAFd5oRJKRPoMPE84thQkWrSpVLmhEpYwLFtL+au6QVjGKhqUNaRoULRIXEXBkqZ
+R0QqswS7oZm6ZjFmGsJYAAmDHFpcV1TIZAwpsZBCqIqJogkXLawCRgFk1NQQFkJc
+Vha2pUwd6grSkVDgsAo7xGLF3WCx8M2VMudLSMemjjE0NQ45kzXEmCz4oYwR0bhu
+IazrClOZDk2iAI1rmmlCWdGBhU0ZGQrgUmFNrJhTETT7yWODumtAyBYW2BmRSiEn
+4tiebdolIrzQ8yJuZswUryoSw1UyGrjLEKDBsCV2RGRUMMcN2mFhkkD+1y85XWKL
+I0GHBYLh/jDWgTixOqwithGYQ8YIV6gsi3FaCOqWgamiMUwNLLrAVFaoSjSVWDrW
+ZawpYg+JKSZqqhY1/zUQi9F4pFhwCttEP+UOk2oOHigYGOfzxyUMGhD7PHH+wcPu
+fakzV4beyW5bUhr9mOTOG+GLtAy/nt35tLu+6cvmaM3hnDlVVQueKfLljUnraOnN
+qjXXnT0y4dqH3+7eNCP1tn9E6DvcvaKga0ntncKu0Vl00Iy27RdT0t56d/A3V7tO
++gbMjO5qT1+cUhuZcvr4uZc7WoMFO0NzS4vrlu7rBoN2ZG8o3Tv/1OzWYQlNrx1m
+SQ99ypovE/+0htcnLCvPHb8gy46yeQ++UtZ3H7196U1vVW14Vc2iH48/CQZmvVOZ
+NvKpwZWray/cmJicGo5XN21e31w3afXjXWu6XyjCbv3Dm5tm9QTnOs35j/3WufRQ
+/F46NjnJfrbzZmjM1IQ1bcVdN8fmPv1cnT19Y/XZR4t6/vRHh5yaGH8sLSnj5yMb
+h+96or6RTG+ryWnYNqV5ji9xxp6/ypLjP2j8oW9SQv3WpOXdBadZeGavEdWX9iS1
+16ck1PQ8f8BB+4B7LHdtX2Jdzsob80uWs0vjDhWcbyz7and+T+OA9j3DC69u8Z8Y
+s+rMit9R3tHePyY+kJ6SPjIwtaL7pVl5n11bfejt6Pn9s9t3Xujb/n7HkjX3u+PV
+hIq1378XP6ed69uyU1+ctqV6yuS0K+6oxE8ubPw1+Sj/6NWcllsdb1xfl7fBGZoS
+Wvz1wNy8llH7bxrjpm893jr0yti6yBdr8z+/ePFkav7oZbUddHx9cZ6/IeORyUeG
+tMo/Neywi84fO3e5aeXfvxL4uw==
+=muZW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nattaro13
+
+==================================================================
